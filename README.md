@@ -1,1 +1,3 @@
-# eth0-2019-badge
+# Badge for ETH0 2019
+
+Based on a protoboard design found here: https://github.com/electroniceel/protoboard
